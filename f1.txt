@@ -1,4 +1,6 @@
 my file is goot 
 I am using nano editor 
-I like it
+I like it. 
+I chnaged this files after the git commit 
+
 
