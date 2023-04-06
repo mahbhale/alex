@@ -1,0 +1,8 @@
+this is vim 
+i -- insert mode
+esp--- to come out of any mode
+dd -- for delete line
+d -- delete right side of corcer
+:q!-- quit without save
+:wq!-- quit with save
+
