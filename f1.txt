@@ -10,6 +10,8 @@ this is new chnage feature2 from local repo
 f3
 f4
 f5 happend in Git hub.. need to pull at local git 
+f6 happend in GitGub--need to pull to local git 
+
 
 
 
